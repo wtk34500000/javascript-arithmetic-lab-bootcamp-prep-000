@@ -31,5 +31,5 @@ function makeInt(n)
 
 function makeInt(n)
 {
-  return parseInt(n)
+  return n*10
 }
